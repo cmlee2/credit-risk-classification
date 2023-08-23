@@ -6,7 +6,7 @@ The purpose of this analysis was to predict whether a loan would be labeled as a
 ## Results
 
 * Machine Learning Model 1:.
-   - The balanced accuracy score had a score of .952 implying that the model performs vert well on imbalanced datasets.
+   - The balanced accuracy score had a score of .952 implying was able to predict loan status with high accuracy.
    - The precision of predicting health loans was 1, implying there were no false positives. The precision of predicting high-risk loans was .85 implying there were some false positives included.
    - The recall score of predicting healthy loans was .99, implying there were very few false negatives. The recall score of predicting high-risk loans was .91, implying there were more false negatives compared to health loans.
    - The precision and recall of weighted average was .99 implying that the model is very accurate in predicting the healthy loan and high risk loan labels.
